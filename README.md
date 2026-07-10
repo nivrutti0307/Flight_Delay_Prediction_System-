@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Predictor
+# Flight Delay Prediction System
 
 A machine learning-powered web application that predicts flight delays based on historical data, weather conditions, and flight characteristics.
 
